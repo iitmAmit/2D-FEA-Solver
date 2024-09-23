@@ -1,0 +1,3 @@
+#nlbc	nodenum	type	X1load	X2load
+0	0	0	0	0
+1	3	12	1	0

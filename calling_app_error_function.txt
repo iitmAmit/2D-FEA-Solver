@@ -1,0 +1,10 @@
+# Create an array of x values
+x_vals = np.linspace(0, 2*np.pi, 100)
+
+# Call the functions on the array of x values
+exact_vals = exact(x_vals)
+approx_vals = approx(x_vals)
+
+# Print the values
+print("Exact values:", exact_vals)
+print("Approximate values:", approx_vals)
